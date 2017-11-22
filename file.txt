@@ -1,0 +1,8 @@
+total 0
+-rw-rw-r-- 1 rathoraj rathoraj 0 Nov 20 11:45 file1.txt
+-rw-rw-r-- 1 rathoraj rathoraj 0 Nov 20 11:46 file.txt
+  PID TTY          TIME CMD
+ 5937 pts/1    00:00:00 bash
+ 6067 pts/1    00:00:00 ps
+
+POSIX
